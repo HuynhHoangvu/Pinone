@@ -1,0 +1,44 @@
+{
+  "accounts": [
+    {
+      "username": "user01",
+      "password": "pass123456"
+    },
+    {
+      "username": "user02",
+      "password": "mypassword02"
+    },
+    {
+      "username": "user03",
+      "password": "securepass03"
+    },
+    {
+      "username": "user04",
+      "password": "loginpass04"
+    },
+    {
+      "username": "user05",
+      "password": "accesspass05"
+    },
+    {
+      "username": "user06",
+      "password": "secretpass06"
+    },
+    {
+      "username": "user07",
+      "password": "mypass007"
+    },
+    {
+      "username": "user08",
+      "password": "demo123456"
+    },
+    {
+      "username": "user09",
+      "password": "testpass09"
+    },
+    {
+      "username": "user10",
+      "password": "finalpass10"
+    }
+  ]
+}

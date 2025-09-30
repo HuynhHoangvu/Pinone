@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "username": "nguyenvanA",
+      "password": "Abc123456",
+      "email": "nguyenvana@gmail.com",
+      "phone": "0912345678",
+      "fullname": "Nguyễn Văn A"
+    },
+    {
+      "username": "tranthiB",
+      "password": "Pass123!@#",
+      "email": "tranthib@yahoo.com",
+      "phone": "0923456789",
+      "fullname": "Trần Thị B"
+    },
+    {
+      "username": "lehoangC",
+      "password": "LeHoang789",
+      "email": "lehoangc@gmail.com",
+      "phone": "0934567890",
+      "fullname": "Lê Hoàng C"
+    },
+    {
+      "username": "phamthid",
+      "password": "Pham@1234",
+      "email": "phamthid@outlook.com",
+      "phone": "0945678901",
+      "fullname": "Phạm Thị D"
+    },
+    {
+      "username": "vuquangE",
+      "password": "VuQuang567",
+      "email": "vuquange@gmail.com",
+      "phone": "0956789012",
+      "fullname": "Vũ Quang E"
+    },
+    {
+      "username": "hoangthif",
+      "password": "HoangF!123",
+      "email": "hoangthif@gmail.com",
+      "phone": "0967890123",
+      "fullname": "Hoàng Thị F"
+    },
+    {
+      "username": "daovanG",
+      "password": "Gdao@7890",
+      "email": "daovang@yahoo.com",
+      "phone": "0978901234",
+      "fullname": "Đào Văn G"
+    },
+    {
+      "username": "buthih",
+      "password": "ButH123456",
+      "email": "buthih@gmail.com",
+      "phone": "0989012345",
+      "fullname": "Bùi Thị H"
+    },
+    {
+      "username": "dinhvani",
+      "password": "DinhI@2024",
+      "email": "dinhvani@outlook.com",
+      "phone": "0990123456",
+      "fullname": "Đinh Văn I"
+    },
+    {
+      "username": "ngothik",
+      "password": "NgoK!7890",
+      "email": "ngothik@gmail.com",
+      "phone": "0901234567",
+      "fullname": "Ngô Thị K"
+    }
+  ]
+}
